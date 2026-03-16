@@ -1,6 +1,6 @@
 ## Abstract
 
-SPAC Dynamical Model Stimation
+### SPAC Dynamical Model Stimation
 
 This project analyzes a dynamical system based on the Soil–Plant–Atmosphere Continuum (SPAC) concept, which describes the physical interactions between soil, plant and atmosphere. The main objective is to estimate the internal states of a mathematical model representing biomass growth, plant internal water content and soil water availability.
 
